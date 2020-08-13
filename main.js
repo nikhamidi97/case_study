@@ -32,7 +32,7 @@ let counter = ["O","0","O","O","O"] ;
                   setTimeout(()=>{  
                     console.log(counter);
                    
-                },1000000);
+                },qtimeran);
                 };
 
                 if (i==5) i = 0;
