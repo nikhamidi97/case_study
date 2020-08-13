@@ -1,6 +1,5 @@
 const readline = require('readline');
 const { setTimeout } = require('timers');
-// import {Customer} from './activity2_student.mjs';
 
 const rl = readline.createInterface({
 
